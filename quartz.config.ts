@@ -11,7 +11,9 @@ const config: QuartzConfig = {
     pageTitle: "Vuzinski's Dossier",
     enableSPA: true,
     enablePopovers: true,
-    analytics: null,
+    analytics: {
+      provider: "plausible",
+    },
     locale: "en-US",
     baseUrl: "quartz.jzhao.xyz",
     ignorePatterns: ["private", "templates", ".obsidian"],
