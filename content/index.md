@@ -4,6 +4,7 @@ title: Welcome to Nobody's Mind
 ## Nobody's mind. A mind without a body, a stuck head, motionless, rotting. 
 Unfortunately. Go figure.
 
+[[Updates]]
 ## How to navigate this thing?
 
 **With tags, click a tag to see posts related to the tag's description**

@@ -15,6 +15,9 @@ The "digital garden" has a shortened home page
 Changed the tags so it's compact and easy
 Clicking the links and tags now work. No more 404's
 
+01:23
+The tables that shows the recent stuff on the index page: 
+The links don't work, what the fuck, 
 ## Personal Updates:
 **19.09.2024 01:18**
 Hopefully writings should start pouring like an alcoholic pouring a drink.
