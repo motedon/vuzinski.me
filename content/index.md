@@ -1,7 +1,8 @@
 ---
 title: Welcome to Nobody's Mind
 ---
-# Nobody's mind. A mind without a body, a stuck head, motionless, rotting. Unfortunately.
+## Nobody's mind. A mind without a body, a stuck head, motionless, rotting. 
+Unfortunately. Go figure.
 
 ## How to navigate this thing?
 
@@ -17,13 +18,13 @@ People who have had **good** or/and **bad** influence. Can include(but not limit
 Notes taken on researched topics or/and consumed media(books, videos, movies, etc.)
 
 #thoughts
-The outputs of **this** unfortunate mind. Could be complaints, opinions, frustrations and emotional outbursts
+The outputs of **this** mind. Could be (but not limited to) complaints, opinions, frustrations and emotional outbursts.
 
 #tiengViet
 những gì bằng ngôn ngữ đấy.
 
 #personal
-More about the **unfortunate person**
+More about that **person**
 
 ## Finger on the pulse
 
