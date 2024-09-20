@@ -4,11 +4,6 @@ draft: false
 tags: []
 ---
 Personal or technical updates worth pointing out.
-## Technical details:
-The priority is this to be mobile-reading friendly.
-Desktop version has few useless features.
-Date format is DD.MM.YYYY time format is HH:MM (24-Hour)
-
 ## Technical Updates:
 **19.09.2024 01:12**
 The "digital garden" has a shortened home page
@@ -24,3 +19,8 @@ Hopefully writings should start pouring like an alcoholic pouring a drink.
 
 **01:20**
 I'm starting to see blue fog/smoke while looking at a light source, going blind?
+
+## Technical details:
+The priority is this to be mobile-reading friendly.
+Desktop version has few useless features.
+Date format is DD.MM.YYYY time format is HH:MM (24-Hour)
