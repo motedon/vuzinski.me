@@ -5,7 +5,7 @@ const dv = app.plugins.plugins["dataview"].api;
 const fileAndQuery = new Map([
   [
     "Recently edited",
-    'TABLE WITHOUT ID link(file.name) AS Note, dateformat(file.mtime, "ff") AS Modified FROM "content" WHERE file.name != "Recently edited" AND file.name != "Recent new files" AND file.name != "index" AND file.frontmatter.draft = false SORT file.mtime desc LIMIT 7',
+    'TABLE WITHOUT ID link(file.name) AS Note, dateformat(file.mtime, "HH:mm") AS Modified FROM "content" WHERE file.name != "Recently edited" AND file.name != "Recent new files" AND file.name != "index" AND file.frontmatter.draft = false SORT file.mtime desc LIMIT 7',
   ],
   [
     "Recent new files",
