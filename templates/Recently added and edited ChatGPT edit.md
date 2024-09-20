@@ -5,13 +5,15 @@ const dv = app.plugins.plugins["dataview"].api;
 const fileAndQuery = new Map([
   [
     "Recently edited",
-    'TABLE WITHOUT ID link(file.name) AS Note, dateformat(file.mtime, "HH:mm") AS Modified FROM "content" WHERE file.name != "Recently edited" AND file.name != "Recent new files" AND file.name != "index" AND file.frontmatter.draft = false SORT file.mtime desc LIMIT 7',
+    'TABLE WITHOUT ID link(file.name) AS Note, dateformat(file.mtime, "DD, T") AS edited FROM "content" WHERE file.name != "Recently edited" AND file.name != "Recent new files" AND file.name != "index" AND file.frontmatter.draft = false SORT file.mtime desc LIMIT 7',
   ],
   [
-    "Recent new files",
-    'TABLE WITHOUT ID file.link AS Note, dateformat(file.ctime, "DD") AS Added FROM "content" WHERE file.name != "Recently edited" AND file.name != "Recent new files" AND file.name != "index" AND file.frontmatter.draft = false SORT file.ctime desc LIMIT 7',
+    "Recently created",
+    'TABLE WITHOUT ID file.link AS Note, dateformat(file.ctime, "DD, T") AS Created FROM "content" WHERE file.name != "Recently edited" AND file.name != "Recent new files" AND file.name != "index" AND file.frontmatter.draft = false SORT file.ctime desc LIMIT 7',
   ],
 ]);
+
+
 
 await fileAndQuery.forEach(async (query, filename) => {
   if (!tp.file.find_tfile(filename)) {
@@ -33,3 +35,4 @@ await fileAndQuery.forEach(async (query, filename) => {
   }
 });
 %>
+
