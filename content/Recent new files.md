@@ -1,8 +1,9 @@
 ---
 draft: false
 ---
-| Note                                            | Added        |
-| ----------------------------------------------- | ------------ |
-| [[content/Shorts.md\|Shorts]]                   | Sep 19, 2024 |
-| [[content/TheOneYouMissed.md\|TheOneYouMissed]] | Sep 19, 2024 |
-| [[content/Updates.md\|Updates]]                 | Sep 19, 2024 |
+| Note                                                    | Added        |
+| ------------------------------------------------------- | ------------ |
+| [[ChatGPT is the best.md\|ChatGPT is the best]] | Sep 21, 2024 |
+| [[Shorts.md\|Shorts]]                           | Sep 21, 2024 |
+| [[TheOneYouMissed.md\|TheOneYouMissed]]         | Sep 21, 2024 |
+| [[Updates.md\|Updates]]                         | Sep 21, 2024 |

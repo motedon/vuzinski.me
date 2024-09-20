@@ -1,4 +1,3 @@
-
 <%*
 const dv = app.plugins.plugins["dataview"].api;
 
@@ -13,13 +12,18 @@ const fileAndQuery = new Map([
     'TABLE WITHOUT ID file.link AS Note, dateformat(file.ctime, "DD") AS Added FROM "content" WHERE file.name != "Recently edited" AND file.name != "Recent new files" AND file.name != "index" AND file.frontmatter.draft = false SORT file.ctime desc LIMIT 7',
   ],
 ]);
+
 await fileAndQuery.forEach(async (query, filename) => {
   if (!tp.file.find_tfile(filename)) {
     await tp.file.create_new("", filename);
     new Notice(`Created ${filename}.`);
   }
   const tFile = tp.file.find_tfile(filename);
-  const queryOutput = await dv.queryMarkdown(query);
+  let queryOutput = await dv.queryMarkdown(query);
+
+  // Remove "content/" from links in the result
+  queryOutput.value = queryOutput.value.replaceAll("content/", "");
+
   const fileContent = `---\ndraft: false\n---\n${queryOutput.value}`;
   try {
     await app.vault.modify(tFile, fileContent);
@@ -28,10 +32,4 @@ await fileAndQuery.forEach(async (query, filename) => {
     new Notice("ERROR updating! Check console. Skipped file: " + filename , 0);
   }
 });
-
-let fileLink = tp.file.cursor(); // Grabs the current file link or path
-let shortLink = fileLink.replace("content/", ""); // Replace 'content/' with nothing
-//tR = "[[" + shortLink + "]]"; // Output as a link
 %>
-
-
