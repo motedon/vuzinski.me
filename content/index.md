@@ -1,5 +1,5 @@
 ---
-title: Welcome to Nobody's Mind
+title: Nobody's Mind
 ---
 ## Nobody's mind. A mind without a body, a stuck head, motionless, rotting. 
 Unfortunately. Go figure.
@@ -8,7 +8,7 @@ Unfortunately. Go figure.
 **With tags, click a tag to see posts related to the tag's description**
 
 #shorts 
-compressing comedy, imagination, wisdom, memories.
+compressing comedy, imagination, weirdness, wisdom, memories.
 
 #people
 People who have had **good** or/and **bad** influence. Can include(but not limited to) historical figures, fictional characters and people who **this** unfortunate life has interacted with **IRL**.
@@ -35,5 +35,3 @@ Check the tables bellow: to see recent creations or if something has been edited
 ![[Recently created]]
 
 ![[Recently edited]]
-
-
