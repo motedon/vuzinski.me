@@ -3,6 +3,7 @@ title: What's wrong?
 draft: false
 tags:
   - personal
+  - sadside
 ---
 Ramble.
 To me, the way I see things, the way I observe myself - I have given up on life and trying. The list of things to do and learn is there, but will I ever do anything in it? Highly unlikely.

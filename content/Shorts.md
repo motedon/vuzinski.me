@@ -5,6 +5,9 @@ tags:
   - shorts
 date: 2024-07-31
 ---
+23.9.2024
+WRITE MORE, WRITING ISN'T BAD DUDE, GO TO NHÀ KHO AND TYPE ON THAT FUCKING KEYBOARD. also check some notes on the chonky vault.
+
 23.8.2024
 Inflate your tits, deflate your brain.
 
