@@ -7,9 +7,6 @@ Unfortunately. Go figure.
 
 **With tags, click a tag to see posts related to the tag's description**
 
-#shorts 
-compressing comedy, imagination, weirdness, wisdom, memories.
-
 #people
 People who have had **good** or/and **bad** influence. Can include(but not limited to) historical figures, fictional characters and people who **this** unfortunate life has interacted with **IRL**.
 
@@ -28,12 +25,16 @@ More about that **person**
 #sadside
 one of the sides that can't do much about, except open-source it
 ## Finger on the pulse
-Personal/Technical updates:
-
-[[Updates]]
 
 Check the tables bellow: to see recent creations or if something has been edited. Sorted by newest on top.
 
 ![[Recently created]]
 
 ![[Recently edited]]
+
+### Note worthy notes
+Personal/Technical updates:
+[[Updates]]
+
+compressing comedy, imagination, weirdness, wisdom, memories:
+[[Shorts]]

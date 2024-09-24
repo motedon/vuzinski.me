@@ -5,6 +5,13 @@ tags:
   - shorts
 date: 2024-07-31
 ---
+compressing comedy, imagination, weirdness, wisdom, memories.
+
+
+
+24.9.2024
+I guess no more badminton then. You talked the talk, very charming, different even, but at the end you didn't walk the walk. But I don't blame you, you have my respects. Wish you well. Remember, nobody is 100% busy, it's all about priorities and decency.
+
 23.9.2024
 WRITE MORE, WRITING ISN'T BAD DUDE, GO TO NHÀ KHO AND TYPE ON THAT FUCKING KEYBOARD. also check some notes on the chonky vault.
 
