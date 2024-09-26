@@ -1,6 +1,7 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
-
+import { inject } from "@vercel/analytics"
+inject();
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "I don't know...",   
