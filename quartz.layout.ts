@@ -8,14 +8,14 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   afterBody: [],
   footer: Component.Footer({
-    links: {
+    links: {  
       Telegram: "https://t.me/vuzinski",
       Instagram: "https://instagram.com/vuzinski",
       YouTube: "https://www.youtube.com/@vuzinski",
       Facebook: "https://www.facebook.com/brayan.musk/",
     },          
   }),
-}
+}                 
 inject();
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
