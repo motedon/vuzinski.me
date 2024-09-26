@@ -5,9 +5,13 @@ tags: []
 ---
 Personal or technical updates worth pointing out.
 ## Technical Updates:
+##### **26.09.2024 21:10**
+This page now has a domain name, vuzinksi.me, very fucking cool if you ask me.
+Also soon testing for images will be done, so that more expression is allowed AKA MEMES.
+200k một domain, haha ngon. tính 1 bát phở là 35k thì tầm 5 bát phở đc có blog cá nhân. Hoặc nếu tính bằng giá xăng thì nó sẽ hơi đắt, 20k/lít thì 10 lít xăng đc blog cá nhân, đẩy bình cho 5 xe wave.
 ##### **21.09.2024 04:01**
 The "Recently edited" and "Recent new files" Tables now work. Clicking each link won't show 404 page.
-Thanks to ChatGPT... I didn't manage to figure out how to find the files and how to modify or change something in them using the Templater or Dataview pluggins in Obsidian, mind you, I have no experience with JavaScript despite it being used in the Templater script...
+Thanks to ChatGPT... I did manage to figure out how to find the files and how to modify or change something in them using the Templater or Dataview pluggins in Obsidian, mind you, I have no experience with JavaScript despite it being used in the Templater script...
 An one liner that fixed it all...
 ```
 queryOutput.value = queryOutput.value.replaceAll("content/", "");

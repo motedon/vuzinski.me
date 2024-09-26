@@ -14,13 +14,13 @@ People who have had **good** or/and **bad** influence. Can include(but not limit
 Notes taken on researched topics or/and consumed media(books, videos, movies, etc.)
 
 #thoughts
-The outputs of **this** mind. Could be (but not limited to) complaints, opinions, frustrations and emotional outbursts. Exploring difficult topics one question at a time.
+The outputs of mind. Could be (but not limited to) complaints, opinions, frustrations and emotional outbursts. Exploring difficult topics one question at a time.
 
 #tiengViet
 những gì bằng ngôn ngữ đấy.
 
 #personal
-More about that **person**
+Google the definition
 
 #sadside
 one of the sides that can't do much about, except open-source it
