@@ -13,7 +13,7 @@ tags:
 - [ ] Create the whole catalog page using the TP script
 - [ ] Link the whole catalog somehow (doesn't need to be shown like the "recents")
 - [ ] Clean the firefox tabs from ChonkyPad PC
-- [ ] Interesting posts on the other vault worth putting here
+- [ ] Interesting posts on the other vault worth putting here?
 - [x] Delete the backup vault 
 - [ ] Update the index page
 - [ ] WRITE MORE.

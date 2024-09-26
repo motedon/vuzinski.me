@@ -2,11 +2,10 @@
 title: Shorts
 draft: false
 tags:
-  - shorts
+  - thoughts
 date: 2024-07-31
 ---
 compressing comedy, imagination, weirdness, wisdom, memories.
-
 
 
 24.9.2024
