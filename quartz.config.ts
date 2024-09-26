@@ -4,11 +4,12 @@ import { inject } from "@vercel/analytics"
 inject();
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "I don't know...",   
+    pageTitle: "I don't know...",
+    pageTitleSuffix: " ",
     enableSPA: true,
     enablePopovers: true,
     analytics: null,
-    locale: "en-US",
+    locale: "en-US",            
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created", 
     theme: {
