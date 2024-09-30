@@ -1,8 +1,6 @@
 ---
-title: Nobody's Mind
+title: Someone's something
 ---
-## Nobody's mind. A mind without a body, a stuck head, motionless, rotting. 
-Unfortunately. Go figure.
 ## How to navigate this thing?
 
 **With tags, click a tag to see posts related to the tag's description**

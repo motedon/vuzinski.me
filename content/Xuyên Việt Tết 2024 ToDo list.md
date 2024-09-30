@@ -18,7 +18,7 @@ tags:
 	- [ ] Túi motowolf chống nước (90L+?) đừng lều các kiểu nếu thùng không đựng hết (tùy đi 1 người hoặc 2)
 	- [ ] Lều (2P bright green)
 	- [ ] Ghế (1, 2 nếu đi với Bình) (để ý là có ghế rất nhỏ, tiết kiệm diện tích)
-	- [ ] Bàn gấp
+	- [ ] ~~Bàn gấp~~ Dùng thùng xe làm bàn, tiết kiệm diện tích.
 	- [ ] đệm ngủ (1 or 2?)
 	- [ ] Paracord?
 	- [ ] The two foldable sticks?
@@ -88,5 +88,5 @@ Vì kế hoạch trước đã mất cái sự chắc chắn. Và mình cũng kh
 Mình được nghỉ trước 1 tuần trước khi tết bắt đầu và chắc chắn sẽ nghỉ 1 tuần sau tết thì mình cảm thấy sẽ có thừa thời gian để đi xuyên Việt. **Let's go babyyy**
 Tầm 20 ngày, có thể hơn. Sẽ có cắm trại, sẽ có khám phá những thành phố đặc biệt, sẽ phải hỏi anh Tuần xem cái gì đáng ăn - uống - đến - nhìn.
 
-# Nếu không thì
+# Nếu không thì...
 Bình thường tết mình không đi đâu, chỉ ở nhà 1 mình, cô chủ nhà trọ đến và cho mình 1 bánh chưng. Trầm cảm vch.

@@ -17,3 +17,13 @@ tags:
 - [x] Delete the backup vault 
 - [ ] Update the index page
 - [ ] WRITE MORE.
+- [ ] MAKE THE ACCENT COLOR OF THE WEBPAGE PURPLE OR SOMETHING LIKE THAT.
+
+An idea that is why this whole space on the internet is:
+1st write about oneself, connect the dots
+and then
+explore the universe since I don't have to ever talk about myself ever again, since I fucking wrote it, clearly and with all the important details. 
+hopefully it feels lighter so new things can get it, change might happen
+
+I want to try to dissect myself here as much as possible, to see how the graph looks like. and then we move on to the next project
+Project N1 - Thyself. lets begin/continue.

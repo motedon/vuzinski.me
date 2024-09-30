@@ -7,6 +7,21 @@ date: 2024-07-31
 ---
 compressing comedy, imagination, weirdness, wisdom, memories.
 
+28.9.2024
+I don't have celebrity crushes or that kind of shit, like Henry Cavill is handsome, Scarlet Johansson is not bad, Anne Hathaway is... wow..., Ryan Reynolds is charismatic but goddamn Selena Gomez in her thirties is a goddamn baddie and that's something important to write down. I did try to text her but she told me to "calm down" in a [very creative way](https://youtu.be/WcIcVapfqXw?si=VxIBpxLuscTOoavR)
+
+22:02
+Who am I kidding, I do have a list of wow:
+- Jennifer Connelly
+- Anne Hathaway
+- Selena Gomez
+- Rachel McAddams
+- Elizabeth Olsen is WAO
+
+Hot takes tho:
+- Margot Robbie is meh
+- Ana de Harmas is meh meh overliked
+- who was that newest one who was liked because of the racks: Capital of Australia + Sweeney
 
 24.9.2024
 I guess no more badminton then. You talked the talk, very charming, different even, but at the end you didn't walk the walk. But I don't blame you, you have my respects. Wish you well. Remember, nobody is 100% busy, it's all about priorities and decency.
