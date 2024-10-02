@@ -1,5 +1,6 @@
 ---
 title: Someone's something
+date: 2024-09-12
 ---
 ## How to navigate this thing?
 

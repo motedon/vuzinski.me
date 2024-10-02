@@ -5,6 +5,18 @@ tags: []
 ---
 Personal or technical updates worth pointing out.
 ## Technical Updates:
+##### 03.10.2024 00:07
+Locales on linux and how Obsidian or where the fuck does it get its locales is absolute bullshit. I can't fucking change the date property on the frontmatter from the default garbage mm-dd-yyyy to a fucking normal, logical format, aka dd-mm-yyyy.
+Seems like it's Obsidian on linux thing, my setup already has all the needed locales set up and everything seems to be working, but obsidian doesn't. There is a workaround which will be implemented since I have no fucking choice. I won't be getting the fancy date picker, but I will from now on create notes with automatic current date on the property section.
+
+00:12
+It's so fucking sad that my notes don't have the exact date of creation. Details matter to me and it sucks how things can be sometimes.
+It's my fault for not closing obsidian when doing a sync so it's me who will deal with the consequences, blabla whatever fml.
+
+##### 02.10.2024 19:24
+God fucking damn it, before syncing the vault I should fucking close obsidian so that my notes don't get a new date of creation, goddamn it, time stamps matter.
+I should fix it with fucking templater, bullshit behavior and now I can't find where to add the old dates in? so in one day I have vomited 20 notes, yeah right. CLOSE OBSIDIAN BEFORE EACH COMMIT YOU MONKEY.
+fix with templater, fix with templater, fix with templater
 ##### **26.09.2024 21:10**
 This page now has a domain name, vuzinksi.me, very fucking cool if you ask me.
 Also soon testing for images will be done, so that more expression is allowed AKA MEMES.

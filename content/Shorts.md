@@ -5,7 +5,7 @@ tags:
   - thoughts
 date: 2024-07-31
 ---
-compressing comedy, imagination, weirdness, wisdom, memories.
+kcompressing comedy, imagination, weirdness, wisdom, memories.
 
 2.10.2024
 A: I want my next soulmate to have VA's looks and MT's brain

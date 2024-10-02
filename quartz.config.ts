@@ -1,15 +1,13 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
-import { inject } from "@vercel/analytics"
-inject();
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "I don't know...",
     pageTitleSuffix: " ",
     enableSPA: true,
     enablePopovers: true,
-    analytics: null,
-    locale: "en-US",            
+    analytics: {provider: "goatcounter", websiteId:"vuzinskiblog"},
+    locale: "en-GB",            
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created", 
     theme: {

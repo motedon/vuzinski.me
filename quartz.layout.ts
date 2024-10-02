@@ -1,6 +1,6 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
-import { inject } from "@vercel/analytics"
+
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
@@ -16,7 +16,7 @@ export const sharedPageComponents: SharedLayout = {
     },          
   }),
 }                 
-inject(); 
+
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [

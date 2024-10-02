@@ -3,6 +3,7 @@ title: Post work burnout
 draft: false
 tags:
   - personal
+date: 2024-09-26
 ---
 
 To preface with the work description:
