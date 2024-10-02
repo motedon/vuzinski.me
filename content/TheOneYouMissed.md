@@ -65,3 +65,23 @@ but to have a reason to do things.
 A fuel for the truck that carries the necessities of life.
 
 Strawberries with condensed milk is the worst trigger ever.
+
+2.10.2024
+I had time to reflect and it seems like she did really like me.
+I'm not overthinking, I'm not overanalyzing I was just doing my daily work and it just came to my mind.
+
+She stayed late to talk to me, even though the next day we both had to work.
+
+Even after I came late from a meeting with a friend, she was asleep when I texted, but as soon as she woke up she replied and we talked on the phone again, it was late already, damn.
+
+Trusted me enough to stay in a park, late at night with me.
+Even her friend said: hey don't stay late at night with strangers in a park...
+
+She wanted to meet the second time on my birthday.
+
+She gave me the title: The best guy she could have ever met on Bumble. Print that shit on a T-shirt and wear in proudly.
+
+and so: "Let's celebrate that B won't be in our life" and "I didn't like him" or "he has problems" - Facade talk.
+
+Haha,
+have a good life.

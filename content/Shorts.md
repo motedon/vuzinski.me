@@ -7,6 +7,11 @@ date: 2024-07-31
 ---
 compressing comedy, imagination, weirdness, wisdom, memories.
 
+2.10.2024
+A: I want my next soulmate to have VA's looks and MT's brain
+B: Did you just called your ex stupid and you most memorable date ugly?
+A: never said that, but I'm glad you can read minds.
+
 28.9.2024
 I don't have celebrity crushes or that kind of shit, like Henry Cavill is handsome, Scarlet Johansson is not bad, Anne Hathaway is... wow..., Ryan Reynolds is charismatic but goddamn Selena Gomez in her thirties is a goddamn baddie and that's something important to write down. I did try to text her but she told me to "calm down" in a [very creative way](https://youtu.be/WcIcVapfqXw?si=VxIBpxLuscTOoavR)
 

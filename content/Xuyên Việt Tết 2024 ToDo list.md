@@ -89,4 +89,4 @@ Mình được nghỉ trước 1 tuần trước khi tết bắt đầu và ch�
 Tầm 20 ngày, có thể hơn. Sẽ có cắm trại, sẽ có khám phá những thành phố đặc biệt, sẽ phải hỏi anh Tuần xem cái gì đáng ăn - uống - đến - nhìn.
 
 # Nếu không thì...
-Bình thường tết mình không đi đâu, chỉ ở nhà 1 mình, cô chủ nhà trọ đến và cho mình 1 bánh chưng. Trầm cảm vch.
+Tết không đi đâu, chỉ ở nhà 1 mình, cô chủ nhà trọ đến và cho mình 1 bánh chưng. Trầm cảm vch.

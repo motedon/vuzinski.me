@@ -5,6 +5,9 @@ title: Someone's something
 
 **With tags, click a tag to see posts related to the tag's description**
 
+#projects
+Big stuff, important stuff, stuff worth writing down that are THICC in content and beautiful in graphs. Compared to "thoughts", projects have multiple parts linked to one main page, like a wiki.
+
 #people
 People who have had **good** or/and **bad** influence. Can include(but not limited to) historical figures, fictional characters and people who **this** unfortunate life has interacted with **IRL**.
 
