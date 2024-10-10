@@ -7,7 +7,7 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {provider: "goatcounter", websiteId:"vuzinskiblog"},
-    locale: "en-GB",            
+    locale: "en-US",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created", 
     theme: {
