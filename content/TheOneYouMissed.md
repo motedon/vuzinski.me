@@ -62,7 +62,7 @@ I just want peace.
 peace is comfort.
 comfort NOT just to have it and take it for granted
 but to have a reason to do things.
-A fuel for the truck that carries the necessities of life.
+The fuel for the truck that carries the necessities of life.
 
 Strawberries with condensed milk is the worst trigger ever.
 

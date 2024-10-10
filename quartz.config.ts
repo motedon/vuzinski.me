@@ -2,7 +2,7 @@ import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "I don't know...",
+    pageTitle: "1B3V799",
     pageTitleSuffix: " ",
     enableSPA: true,
     enablePopovers: true,

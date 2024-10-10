@@ -5,6 +5,9 @@ tags: []
 ---
 Personal or technical updates worth pointing out.
 ## Technical Updates:
+
+##### 10.10.2024 19:42
+Icon, images testing - works.
 ##### 03.10.2024 00:07
 Locales on linux and how Obsidian or where the fuck does it get its locales is absolute bullshit. I can't fucking change the date property on the frontmatter from the default garbage mm-dd-yyyy to a fucking normal, logical format, aka dd-mm-yyyy.
 Seems like it's Obsidian on linux thing, my setup already has all the needed locales set up and everything seems to be working, but obsidian doesn't. There is a workaround which will be implemented since I have no fucking choice. I won't be getting the fancy date picker, but I will from now on create notes with automatic current date on the property section.
@@ -39,6 +42,8 @@ Clicking the links and tags now work. No more 404's
 The tables that shows the recent stuff on the index page: 
 The links don't work, what the fuck, 
 ## Personal Updates:
+##### 10.10.2024 19:42
+Doubting whether or not writing/creating this page is worth it. I barely write. I do have thoughts but I just vomit it out there, It's nothing that I feel is significant, product like, worthwhile. will see... *might delete later* 
 ##### **19.09.2024 01:18**
 Hopefully writings should start pouring like an alcoholic pouring a drink.
 
