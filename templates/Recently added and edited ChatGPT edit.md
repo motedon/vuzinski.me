@@ -32,3 +32,4 @@ await fileAndQuery.forEach(async (query, filename) => {
   }
 });
 %>
+
